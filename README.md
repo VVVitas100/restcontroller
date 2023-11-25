@@ -1,4 +1,4 @@
-# restcontroller
+# RestController
 A simple test task for developing a REST API on Spring Boot.
 
 Test task.
