@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ http GET 'http://localhost:8080/count?text=%D1%8F%E2%9B%85%E2%98%81%E2%98%BA%20%E2%98%81%E2%9B%85%20%E2%9B%85%E2%9B%85%D0%90%E2%98%81%E2%96%A0' \
+    'Accept:application/json'
+----
